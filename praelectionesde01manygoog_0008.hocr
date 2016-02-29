@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./praelectionesde01manygoog_0008.png"; bbox 0 0 3174 5046; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 353 1855 1038 1930">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 353 1855 1038 1930">
+     <span class='ocr_line' id='line_1_1' title="bbox 353 1855 1038 1930; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 353 1855 740 1930; x_wconf 87' lang='lat' dir='ltr'>PRAELECTIONES</span> <span class='ocrx_word' id='word_1_2' title='bbox 765 1855 1038 1930; x_wconf 82' lang='lat' dir='ltr'>CANONICAE</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 510 2107 876 2254">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 510 2107 876 2254">
+     <span class='ocr_line' id='line_1_2' title="bbox 510 2107 876 2254; baseline 0 -2"><span class='ocrx_word' id='word_1_3' title='bbox 510 2143 603 2252; x_wconf 82' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 658 2107 876 2254; x_wconf 70' lang='lat' dir='ltr'>Mls&#39;SA</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 263 2427 1133 2480">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 263 2427 1133 2480">
+     <span class='ocr_line' id='line_1_3' title="bbox 263 2427 1133 2480; baseline 0 -1"><span class='ocrx_word' id='word_1_5' title='bbox 263 2429 338 2479; x_wconf 81' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 356 2429 559 2478; x_wconf 78' lang='lat' dir='ltr'>APPENDICE</span> <span class='ocrx_word' id='word_1_7' title='bbox 574 2428 623 2477; x_wconf 85' lang='lat' dir='ltr'><strong>DE</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 640 2427 874 2478; x_wconf 85' lang='lat' dir='ltr'>SANCTlSSlMO</span> <span class='ocrx_word' id='word_1_9' title='bbox 892 2429 1133 2480; x_wconf 81' lang='lat' dir='ltr'><strong>SAGRAMENTO</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1592 5046">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1592 5046">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1592 5046; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1592 5046; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
